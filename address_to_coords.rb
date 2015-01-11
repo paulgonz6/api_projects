@@ -8,6 +8,7 @@ require 'json'
 # OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
 puts "What is the address you would like to find the latitude and longitude of?"
+puts "this is a test line"
 
 # Gets a string from the user and chomps off the carriage return at the end
 the_address = gets.chomp
